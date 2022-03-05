@@ -1,4 +1,11 @@
-# Hi, I'm Neel 👋🏾 👩🏾‍💻
+<h2 align="center">
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ,
+   <!-- I'm <a href="">Neel Patel</a>!  -->
+</h2>
+
+<h4 align='center'>
+  Blockchain | FullStack Engineer
+</h4>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/NTPatel1999?label=Follow)](https://twitter.com/intent/follow?screen_name=NTPatel1999)
 [![Linkedin: Neel](https://img.shields.io/badge/-Neel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neel-patel-900a47154/)](https://www.linkedin.com/in/neel-patel-900a47154/)

@@ -5,5 +5,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/N-NeelPatel?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=N-NeelPatel&color=brightgreen">  
 
-## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/N-NeelPatel/Actions/blob/output/github-contribution-grid-snake.svg)
+<!-- ## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/N-NeelPatel/Actions/blob/output/github-contribution-grid-snake.svg) -->
+

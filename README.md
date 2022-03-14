@@ -5,7 +5,8 @@
 
 <h4 align='center'>
 <!--   Blockchain | FullStack Engineer -->
-  Software Engineer
+  FullStack Engineer
+  
 </h4>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/NTPatel1999?label=Follow)](https://twitter.com/intent/follow?screen_name=NTPatel1999)

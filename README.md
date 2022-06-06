@@ -6,6 +6,7 @@
 <h4 align='center'>
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
   FullStack Engineer
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
 <!--   Blockchain | FullStack Engineer -->
   
 </h4>
@@ -26,8 +27,5 @@
 </a>
 <a href="https://github.com/N-NeelPatel">
   <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-NeelPatel&layout=compact&&show_icons=true&theme=tokyonight&line_height=27&title_color=FFFFFF"
-</a>
-<a href="https://github.com/N-NeelPatel">
-  <img align="center" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=N-NeelPatel&theme=dark"
 </a>
 </p>

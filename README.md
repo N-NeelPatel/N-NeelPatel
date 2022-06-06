@@ -4,9 +4,7 @@
 </h2>
 
 <h4 align='center'>
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
   FullStack Engineer
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
 <!--   Blockchain | FullStack Engineer -->
   
 </h4>

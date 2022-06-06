@@ -27,5 +27,7 @@
 <a href="https://github.com/N-NeelPatel">
   <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-NeelPatel&layout=compact&&show_icons=true&theme=tokyonight&line_height=27&title_color=FFFFFF"
 </a>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApoorvTyagi&theme=dark)](https://git.io/streak-stats)
+<a href="https://github.com/N-NeelPatel">
+  <img align="center" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=N-NeelPatel&theme=dark"
+</a>
 </p>

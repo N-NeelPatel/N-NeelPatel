@@ -4,7 +4,7 @@
 </h2>
 
 <h4 align='center'>
-  FullStack Engineer
+<!--   FullStack Engineer -->
 <!--   Blockchain | FullStack Engineer -->
   
 </h4>

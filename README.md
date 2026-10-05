@@ -9,7 +9,7 @@
   
 </h4>
 
-[![Linkedin: Neel](https://img.shields.io/badge/-Neel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neel-patel-900a47154/)](https://www.linkedin.com/in/neel-patel-900a47154/)
+[![Linkedin: Neel](https://img.shields.io/badge/-Neel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neelpatel0007/)](https://www.linkedin.com/in/neelpatel0007/)
 ![GitHub followers](https://img.shields.io/github/followers/N-NeelPatel?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=N-NeelPatel&color=brightgreen">  
 
